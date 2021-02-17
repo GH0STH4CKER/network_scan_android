@@ -9,7 +9,7 @@
 <br>
 <table id="contact">
   <tr bgcolor="red">
-    <td><img src=https://i.ibb.co/d57hytv/messenger.png"><br><a href="https://m.me/dimuth92">Messenger</a></td>
+    <td><br><a href="https://m.me/dimuth92"><img src=https://i.ibb.co/d57hytv/messenger.png"><br>Messenger</a></td>
     <td><img src="https://i.ibb.co/DGF0tb8/telegram.png"><br><a href="https://t.me/Dimuth92">Telegram</a></td>
   </tr>
 </table>
