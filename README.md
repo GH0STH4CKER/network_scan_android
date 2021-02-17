@@ -1,7 +1,7 @@
 # LAN/Wifi (Same Network) Device Scanner for Termux 
 
 <img src="https://github.com/GH0STH4CKER/network_scan_android/blob/main/androidipscan_ss.jpg" width=75%>
-
+<h2>Installation..</h2>
 ```
 git clone https://github.com/GH0STH4CKER/network_scan_android.git
 pip install colorama
