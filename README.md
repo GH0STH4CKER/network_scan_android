@@ -6,22 +6,20 @@
 # For PC users click this <a href="https://github.com/GH0STH4CKER/Lan_IP_Scanner" >Link</a>
 
 <table width="500" border="1"> 
-        <tr> 
-            <th>NAME</th> 
-            <th>AGE</th> 
-            <th>BRANCH</th> 
-        </tr> 
-  
-        <tr> 
-            <td bgcolor="green">BITTU</td> 
-            <td bgcolor="red">22</td> 
-            <td bgcolor="yellow">CSE</td> 
-        </tr> 
-  
-        <tr> 
-            <td bgcolor="yellow">RAKESH</td> 
-            <td bgcolor="green">25</td> 
-            <td bgcolor="red">EC</td> 
-        </tr> 
-    </table> 
+<tr> 
+<th>NAME</th> 
+<th>AGE</th> 
+<th>BRANCH</th> 
+</tr> 
+<tr> 
+<td bgcolor="green">BITTU</td> 
+<td bgcolor="red">22</td> 
+<td bgcolor="yellow">CSE</td> 
+</tr> 
+<tr> 
+<td bgcolor="yellow">RAKESH</td> 
+<td bgcolor="green">25</td> 
+<td bgcolor="red">EC</td> 
+</tr> 
+</table> 
 
