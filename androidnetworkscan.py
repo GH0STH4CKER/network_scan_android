@@ -74,7 +74,7 @@ def anim() :                # Scanning animation
                 yield cursor
 
     spinner = spinning_cursor()
-    for iii in range(50):
+    for _ in range(50):
         sys.stdout.write(next(spinner))
         sys.stdout.flush()
         time.sleep(0.1)
@@ -154,11 +154,12 @@ def ping_range(start,count) :
                 arpS = str(arp)
 
 
-                mac_loc = arpS.find(':')
+                
 
 
                 if "no match" not in arpS :
-                	mac = arpS[(mac_loc-2):(mac_loc+14)]
+                	mac_loc = arpS.find(':')
+                	mac = arpS[(mac_loc-2):(mac_loc+15)]
                 else: 
                 	#mac = "[ Not Found ]"
                 	cmd3 = "ip address show wlan0"
