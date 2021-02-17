@@ -9,7 +9,7 @@
 <h2>Contact Me :</h2>
 <br>
 <table id="contact">
-  <tr>
+  <tr width=50%>
     <td><a href="https://m.me/dimuth92">Messenger</a><br></td>
     <td><a href="https://t.me/Dimuth92">Telegram</a></td>
   </tr>
