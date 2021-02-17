@@ -1,15 +1,9 @@
 # network_scan_android
 LAn/Wifi (Same Network) Device Scanner for Termux
 
-
-
-<img src="https://github.com/GH0STH4CKER/network_scan_android/blob/main/androidipscan_ss.jpg" >
-
-
+<img src="https://github.com/GH0STH4CKER/network_scan_android/blob/main/androidipscan_ss.jpg" width=60%>
 
 # For PC users click this <a href="https://github.com/GH0STH4CKER/Lan_IP_Scanner" >Link</a>
-
-
 
 <br>
 <h2> Contact : <br>
