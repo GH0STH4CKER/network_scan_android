@@ -10,8 +10,7 @@
 <br>
 <table id="contact">
   <tr bgcolor="red">
-    <td><a href="https://m.me/dimuth92">Messenger</a><br></td>
+    <td><a href="https://m.me/dimuth92" src="https://www.flaticon.com/svg/vstatic/svg/1409/1409939.svg?token=exp=1613561934~hmac=b20f8028197a6ce0e4c0a57f49c16679" >Messenger</a><br></td>
     <td><a href="https://t.me/Dimuth92">Telegram</a></td>
-    <td><a href="https://www.facebook.com/dimuth92"><img title="Facebook" src="https://img.shields.io/badge/Facebook-red?style=for-the-badge&logo=facebook"></a></td>
   </tr>
 </table>
