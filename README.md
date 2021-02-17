@@ -6,20 +6,13 @@
 # For PC users click this <a href="https://github.com/GH0STH4CKER/Lan_IP_Scanner" >Link</a>
 
 <br>
-<table id="t01">
+<h2>Contact Me :</h2>
+<br>
+<table id="contact">
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th>
-    <th>Age</th>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
+    <td><a href="https://m.me/dimuth92">Messenger</a><br></td>
+    <td><a href="https://t.me/Dimuth92">Telegram</a></td>
   </tr>
 </table>
 
-<h2> Contact : <br>
-<a href="https://m.me/dimuth92">Messenger</a><br>
-<a href="https://t.me/Dimuth92">Telegram</a>
-</h2>
+
