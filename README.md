@@ -10,8 +10,8 @@
 <br>
 <table id="contact">
   <tr bgcolor="red">
-    <td><img src="https://www.flaticon.com/svg/vstatic/svg/1409/1409939.svg"><a href="https://m.me/dimuth92">Messenger</a></td>
-    <td><a href="https://t.me/Dimuth92">Telegram</a></td>
+    <td><img src=https://i.ibb.co/d57hytv/messenger.png"><a href="https://m.me/dimuth92">Messenger</a></td>
+    <td><img src="https://i.ibb.co/DGF0tb8/telegram.png"><a href="https://t.me/Dimuth92">Telegram</a></td>
   </tr>
 </table>
-<a href="https://m.me/dimuth92" src="https://www.flaticon.com/svg/vstatic/svg/1409/1409939.svg" >Messenger</a>
+
