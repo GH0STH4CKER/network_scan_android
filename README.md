@@ -4,7 +4,7 @@
 <img src="https://github.com/GH0STH4CKER/network_scan_android/blob/main/androidipscan_ss.jpg" width=85%>
 
 # For PC users click this <a href="https://github.com/GH0STH4CKER/Lan_IP_Scanner" >Link</a>
-
+<html>
 <table width="500" border="1"> 
 <tr> 
 <th>NAME</th> 
@@ -22,4 +22,4 @@
 <td bgcolor="red">EC</td> 
 </tr> 
 </table> 
-
+</html>
