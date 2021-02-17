@@ -3,7 +3,7 @@ LAn/Wifi (Same Network) Device Scanner for Termux
 
 
 
-![screenshot](https://github.com/GH0STH4CKER/network_scan_android/blob/main/Lan_IP_Scanner_SCREENSHOT2.png?raw=true)https://github.com/GH0STH4CKER/network_scan_android/blob/main/androidipscan_ss.png?raw=true)
+![screenshot](https://github.com/GH0STH4CKER/network_scan_android/blob/main/Lan_IP_Scanner_SCREENSHOT2.png?raw=true)https://github.com/GH0STH4CKER/network_scan_android/blob/main/androidipscan_ss.jpg?raw=true)
 
 
 
