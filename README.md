@@ -4,6 +4,10 @@
 <h2>Installation..</h2>
 <br>
 
+I have uploaded another file(V2) for turmux users who use Andrid 10 or higher
+
+(Due to not supporting some termux commands)
+<br>
 ```
 git clone https://github.com/GH0STH4CKER/network_scan_android.git
 pip install colorama
